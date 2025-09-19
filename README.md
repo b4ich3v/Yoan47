@@ -11,7 +11,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Slavi15">
@@ -22,7 +22,7 @@
 
 ---
 
-## 🧰 Technologies
+## Technologies
 
 ### Programming & Scripting
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
@@ -80,5 +80,3 @@
 ![ss](https://img.shields.io/badge/-ss-4EAA25)
 ![dig](https://img.shields.io/badge/-dig-4EAA25)
 ![nslookup](https://img.shields.io/badge/-nslookup-4EAA25)
-
-
