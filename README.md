@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Yoan Baychev  
 
 💡 **About me:**  
+- 🔥 Highly motivated and passionate about technology  
+- ⚙️ Strong understanding of **low-level programming** and **operating systems**  
+- 🐧 Experienced with Linux (Ubuntu) and Windows environments  
 - 💻 Interested in: Web Development, AI, and Open Source  
 - 🌱 Currently learning: React & Node.js  
 - 🚀 I enjoy building cool projects and exploring new technologies  
@@ -39,3 +42,13 @@
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with me
+- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 🐦 [Twitter/X](https://twitter.com/your-profile)  
+- 🌍 [Portfolio Website](https://your-website.com)  
+
+---
+✨ Thanks for visiting my profile!
