@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Yoan Baychev  
 
 💡 **About me:**  
 - 💻 Interested in: Web Development, AI, and Open Source  
@@ -8,12 +8,30 @@
 
 ---
 
-## 🛠️ Languages & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+## 🛠️ Programming Languages
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white)
+![Scheme](https://img.shields.io/badge/-Scheme-EF2D5E?logo=racket&logoColor=white)
+![Racket](https://img.shields.io/badge/-Racket-9F1D20?logo=racket&logoColor=white)
+
+---
+
+## 🏗️ Infrastructure & DevOps Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 📈 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 
 ---
 
