@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Yoan Baychev  
-
-# I'm a DevOps engineer
+# 🛠 Yoan Baychev — DevOps, Systems & Code Enthusiast
 
 💡 **About me:**  
 - 🔥 Obsessed with mastering systems from the hardware up to high-level abstractions
