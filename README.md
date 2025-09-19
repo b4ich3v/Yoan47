@@ -59,6 +59,10 @@
 ![Splunk](https://img.shields.io/badge/-Splunk-00ACED?logo=splunk&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
 
+### Linux Networking & CLI
+![iptables](https://img.shields.io/badge/-iptables-4EAA25)
+![tcpdump](https://img.shields.io/badge/-tcpdump-4EAA25)
+![ssh](https://img.shields.io/badge/-SSH-4EAA25)
 
 ---
 
