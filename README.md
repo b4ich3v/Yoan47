@@ -68,25 +68,7 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <div style="flex: 1 1 45%; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=b4ich3v&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  </div>
-
-  <div style="flex: 1 1 45%; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4ich3v&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </div>
-
-  <div style="flex: 1 1 45%; min-width: 300px;">
-    <img src="https://streak-stats.demolab.com?user=b4ich3v&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-  </div>
-
-  <div style="flex: 1 1 45%; min-width: 300px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=b4ich3v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-  </div>
-
-</div>
+<table> <tr> <td><img src="https://github-readme-stats.vercel.app/api?username=b4ich3v&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" /></td> <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4ich3v&layout=compact&theme=tokyonight" alt="Top Languages" /></td> </tr> <tr> <td><img src="https://streak-stats.demolab.com?user=b4ich3v&theme=tokyonight&border_radius=10" alt="GitHub Streak" /></td> <td><img src="https://github-profile-trophy.vercel.app/?username=b4ich3v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" /></td> </tr> </table>
 
 
 ---
