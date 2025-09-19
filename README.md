@@ -2,12 +2,13 @@
 
 💡 **About me:**  
 - 🔥 Highly motivated and passionate about technology  
-- ⚙️ Strong understanding of **low-level programming** and **operating systems**  
-- 🐧 Experienced with Linux (Ubuntu) and Windows environments  
-- 💻 Interested in: Web Development, AI, and Open Source  
-- 🌱 Currently learning: React & Node.js  
-- 🚀 I enjoy building cool projects and exploring new technologies  
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/your-profile) | youremail@example.com  
+- ⚙️ Deep expertise in **low-level programming** and **system-level development**  
+- 🐧 Extensive experience with **Unix-based operating systems**: Linux (Ubuntu, CentOS), BSD, and macOS  
+- 🖥️ Skilled in **server administration, system services, networking, and OS internals**  
+- 💻 Proficient in programming at the kernel and hardware interface level (C, C++, Assembly, Shell scripting)  
+- 🌱 Always exploring advanced OS concepts, performance tuning, and optimization  
+- 🚀 Enjoy building complex projects that bridge software and hardware  
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/your-profile) | youremail@example.com
 
 ---
 
