@@ -43,9 +43,6 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-FD4B3B?logo=apache&logoColor=white)
 
-### Messaging / Streaming
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
-
 ### Containerization & Orchestration
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white)
@@ -60,10 +57,11 @@
 ![Vault](https://img.shields.io/badge/-Vault-000000?logo=vault&logoColor=white)
 ![Consul](https://img.shields.io/badge/-Consul-463DFA?logo=consul&logoColor=white)
 
-### Cloud Platforms
+### Cloud Platforms & Streaming
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white)
 ![Cloud Foundry](https://img.shields.io/badge/-Cloud%20Foundry-FF6F00?logo=cloudfoundry&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
 
 ### Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
