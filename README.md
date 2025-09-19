@@ -71,15 +71,15 @@
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
     <td style="padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=b4ich3v&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="450"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=b4ich3v&show_icons=true&theme=tokyonight&count_private=true" 
+           alt="GitHub Stats" width="450" height="250" style="object-fit: cover;"/>
     </td>
     <td style="padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4ich3v&layout=compact&theme=tokyonight" alt="Top Languages" width="450"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4ich3v&layout=compact&theme=tokyonight" 
+           alt="Top Languages" width="450" height="250" style="object-fit: cover;"/>
     </td>
   </tr>
 </table>
-
-
 
 ---
 
