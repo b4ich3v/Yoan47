@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yoan Baychev  
 
 💡 **About me:**  
-- 🔥 Highly motivated and passionate about technology  
+- 🔥 Obsessed with mastering systems from the hardware up to high-level abstractions
 - ⚙️ Deep expertise in **low-level programming** and **system-level development**  
 - 🐧 Extensive experience with **Unix-based operating systems**: Linux (Ubuntu, Debian), Linux alpine, and macOS  
 - 🖥️ Skilled in **server administration, system services, networking, and OS internals**  
