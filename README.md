@@ -39,9 +39,12 @@
 
 ---
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b4ich3v&layout=compact&theme=tokyonight)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=b4ich3v&theme=react-dark)
-![GitHub Metrics](https://metrics.lecoq.io/b4ich3v)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b4ich3v&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b4ich3v&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=b4ich3v&theme=tokyonight&border_radius=10)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=b4ich3v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
 
 ---
 
