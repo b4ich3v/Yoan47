@@ -8,7 +8,6 @@
 - 💻 Proficient in programming at the kernel and hardware interface level (C, C++, Assembly, Shell scripting)  
 - 🧠 Enthusiast of **algorithms, performance optimizations, and efficient code**  
 - 🌱 Always exploring advanced OS concepts, performance tuning, and optimization  
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/your-profile) | youremail@example.com
 
 ---
 
@@ -74,13 +73,3 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=b4ich3v&layout=compact&langs_count=12&theme=vue-dark&hide_border=true"/>
   </a>
 </p>
-
----
-
-## 🌐 Connect with me
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐦 [Twitter/X](https://twitter.com/your-profile)  
-- 🌍 [Portfolio Website](https://your-website.com)  
-
----
-✨ Thanks for visiting my profile!
