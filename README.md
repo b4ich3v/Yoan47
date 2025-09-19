@@ -63,10 +63,17 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b4ich3v&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b4ich3v&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=b4ich3v&theme=tokyonight&border_radius=10)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=b4ich3v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
+
+<table>
+<tr>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=b4ich3v&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" /></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4ich3v&layout=compact&theme=tokyonight" alt="Top Languages" /></td>
+</tr>
+<tr>
+  <td><img src="https://streak-stats.demolab.com?user=b4ich3v&theme=tokyonight&border_radius=10" alt="GitHub Streak" /></td>
+  <td><img src="https://github-profile-trophy.vercel.app/?username=b4ich3v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" /></td>
+</tr>
+</table>
 
 ---
 
