@@ -38,10 +38,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b4ich3v&show_icons=true&theme=tokyonight)  
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b4ich3v&layout=compact&theme=tokyonight)  
 
 ---
