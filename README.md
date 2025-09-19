@@ -7,7 +7,7 @@
 - 🖥️ Skilled in **server administration, system services, networking, and OS internals**  
 - 💻 Proficient in programming at the kernel and hardware interface level (C, C++, Assembly, Shell scripting)  
 - 🧠 Enthusiast of **algorithms, performance optimizations, and efficient code**  
-- 🌱 Always exploring advanced OS concepts, performance tuning, and optimization  
+- 🌱 Always exploring OS concepts, performance tuning, and optimization  
 
 ---
 
