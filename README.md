@@ -71,21 +71,22 @@
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
     <td style="padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=b4ich3v&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=b4ich3v&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="450"/>
     </td>
     <td style="padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4ich3v&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4ich3v&layout=compact&theme=tokyonight" alt="Top Languages" width="450"/>
     </td>
   </tr>
   <tr>
     <td style="padding: 5px;">
-      <img src="https://streak-stats.demolab.com?user=b4ich3v&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=b4ich3v&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="450"/>
     </td>
     <td style="padding: 5px;">
-      <img src="https://github-profile-trophy.vercel.app/?username=b4ich3v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=b4ich3v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" width="450"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
