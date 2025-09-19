@@ -1,6 +1,6 @@
 # 🛠 Yoan Baychev — DevOps, Systems & Code Enthusiast
 
-💡 **About me:**  
+## 💡 **About me:**  
 - 🔥 Obsessed with mastering systems from the hardware up to high-level abstractions
 - ⚙️ Deep expertise in **low-level programming** and **system-level development**  
 - 🐧 Extensive experience with **Unix-based operating systems**: Linux (Ubuntu, Debian), Linux alpine, and macOS  
