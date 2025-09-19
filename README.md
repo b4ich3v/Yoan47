@@ -55,7 +55,6 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Vault](https://img.shields.io/badge/-Vault-000000?logo=vault&logoColor=white)
-![Consul](https://img.shields.io/badge/-Consul-463DFA?logo=consul&logoColor=white)
 
 ### Cloud Platforms & Streaming
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
