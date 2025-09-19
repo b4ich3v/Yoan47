@@ -42,6 +42,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-FD4B3B?logo=apache&logoColor=white)
+
+### Messaging / Streaming
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
 
 ### Containerization & Orchestration
