@@ -41,13 +41,13 @@
 ![NoSQL](https://img.shields.io/badge/-NoSQL-008000?logo=mongodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-FD4B3B?logo=apache&logoColor=white)
 
 ### Containerization & Orchestration
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/-Helm-0F52BA?logo=helm&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-FD4B3B?logo=apache&logoColor=white)
 
 ### DevOps / CI-CD
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
