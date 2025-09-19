@@ -73,6 +73,14 @@
 
 ### Linux Networking & CLI
 ![iptables](https://img.shields.io/badge/-iptables-4EAA25)
-![tcpdump](https://img.shields.io/badge/-tcpdump-4EAA25)
 ![ssh](https://img.shields.io/badge/-SSH-4EAA25)
+![tcpdump](https://img.shields.io/badge/-tcpdump-4EAA25)
+![netcat](https://img.shields.io/badge/-Netcat-4EAA25)
+![ip](https://img.shields.io/badge/-ip-4EAA25)
+![traceroute](https://img.shields.io/badge/-traceroute-4EAA25)
+![nmap](https://img.shields.io/badge/-nmap-4EAA25)
+![ss](https://img.shields.io/badge/-ss-4EAA25)
+![dig](https://img.shields.io/badge/-dig-4EAA25)
+![nslookup](https://img.shields.io/badge/-nslookup-4EAA25)
+
 
