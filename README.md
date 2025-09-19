@@ -80,3 +80,5 @@
 ![ss](https://img.shields.io/badge/-ss-4EAA25)
 ![dig](https://img.shields.io/badge/-dig-4EAA25)
 ![nslookup](https://img.shields.io/badge/-nslookup-4EAA25)
+![top](https://img.shields.io/badge/-top-4EAA25)
+![htop](https://img.shields.io/badge/-htop-4EAA25)
