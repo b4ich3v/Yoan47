@@ -39,6 +39,7 @@
 ![Consul](https://img.shields.io/badge/-Consul-463DFA?logo=consul&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white)
+![Cloud Foundry](https://img.shields.io/badge/-Cloud%20Foundry-FF6F00?logo=cloudfoundry&logoColor=white)
 
 ---
 
