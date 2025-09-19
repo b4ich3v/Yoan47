@@ -7,7 +7,6 @@
 - 🖥️ Skilled in **server administration, system services, networking, and OS internals**  
 - 💻 Proficient in programming at the kernel and hardware interface level (C, C++, Assembly, Shell scripting)  
 - 🌱 Always exploring advanced OS concepts, performance tuning, and optimization  
-- 🚀 Enjoy building complex projects that bridge software and hardware  
 - 📫 Reach me at: [LinkedIn](https://linkedin.com/in/your-profile) | youremail@example.com
 
 ---
