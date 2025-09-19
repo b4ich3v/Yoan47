@@ -2,11 +2,11 @@
 
 ## 🧩 **About me:**  
 - ⚡ Obsessed with mastering systems from the hardware up to high-level abstractions
-- ⚙️ Deep expertise in **low-level programming** and **system-level development**  
-- 🐧 Extensive experience with **Unix-based operating systems**: Linux (Ubuntu, Debian), Linux Alpine, and macOS  
-- 🖥️ Skilled in **server administration, system services, networking, and OS internals**  
-- 📝 Proficient in programming at the kernel and hardware interface level (C, C++, Shell scripting) and **basic knowledge of Assembly**
-- 🧠 Enthusiast of **algorithms, performance optimizations, and efficient code**  
+- ⚙️ Deep expertise in low-level programming and system-level development  
+- 🐧 Extensive experience with Unix-based operating systems: Linux (Ubuntu, Debian), Linux Alpine, and macOS  
+- 🖥️ Skilled in server administration, system services, networking, and OS internals  
+- 📝 Proficient in programming at the kernel and hardware interface level (C, C++, Shell scripting) and basic knowledge of Assembly
+- 🧠 Enthusiast of algorithms, performance optimizations, and efficient code  
 - 🌱 Always exploring OS concepts, performance tuning, and code optimization  
 
 ---
