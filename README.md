@@ -40,6 +40,7 @@
 ---
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b4ich3v&layout=compact&theme=tokyonight)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=b4ich3v&theme=react-dark)
 
 ---
 
