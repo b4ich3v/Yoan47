@@ -11,7 +11,8 @@
 
 ---
 
-## 🛠️ Programming Languages
+## 🧰 Technologies
+
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?logo=asm&logoColor=white)
@@ -23,10 +24,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-008000?logo=mongodb&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
-
----
-
-## 🏗️ Infrastructure & DevOps Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -40,10 +37,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white)
 ![Cloud Foundry](https://img.shields.io/badge/-Cloud%20Foundry-FF6F00?logo=cloudfoundry&logoColor=white)
-
----
-
-## 📈 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
