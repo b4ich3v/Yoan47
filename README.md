@@ -14,7 +14,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Slavi15">
+  <a href="https://github.com/b4ich3v">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=b4ich3v&theme=vue-dark&hide_border=true">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=b4ich3v&layout=compact&langs_count=12&theme=vue-dark&hide_border=true"/>
   </a>
