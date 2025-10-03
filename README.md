@@ -52,6 +52,7 @@
 ### DevOps / CI-CD
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![Concourse](https://img.shields.io/badge/-Concourse-2A6F97?logo=concourse&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Vault](https://img.shields.io/badge/-Vault-000000?logo=vault&logoColor=white)
@@ -67,6 +68,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-00ACED?logo=splunk&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-1F8ACB?logo=servicenow&logoColor=white)
 
 ### Linux Networking & CLI
 ![iptables](https://img.shields.io/badge/-iptables-4EAA25)
@@ -81,3 +83,6 @@
 ![nslookup](https://img.shields.io/badge/-nslookup-4EAA25)
 ![top](https://img.shields.io/badge/-top-4EAA25)
 ![htop](https://img.shields.io/badge/-htop-4EAA25)
+
+### API / Tools
+![Bruno](https://img.shields.io/badge/-Bruno-FF6F61?logo=usebruno&logoColor=white)
