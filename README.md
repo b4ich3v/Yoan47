@@ -86,3 +86,5 @@
 
 ### API / Tools
 ![Bruno](https://img.shields.io/badge/-Bruno-FF6F61?logo=usebruno&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/-pgAdmin-306998?logo=postgresql&logoColor=white)
+
